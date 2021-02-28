@@ -4,19 +4,46 @@
             "id": "598ac1bc-ab47-4559-b051-137b5a9989e5",
             "displayName": "6000 Words - Learn Norwegian Language & Vocabulary",
             "informationUrl": "https://apps.apple.com/no/app/6000-words-learn-norwegian-language-vocabulary/id923297000",
-            "price": "Free"
+            "price": "Free",
+            "currency": "kr",
+            "iPadSupport": "Yes",
+            "requirement": "Requires iPadOS 8.0 or later",
+            "age": "4+",
+            "version": "Version 2.0.1",
+            "updated": "20/01/2021T10:32:35Z",
+            "size": "92.6 MB",
+            "category": "Education",
+            "privacyPolicyUrl": "https://www.funeasylearn.com/privacy"
         },
         {
             "id": "92d37bd7-a586-4405-8e83-fb9d3b9f6f2c",
             "displayName": "A farm animal jigsaw puzzle",
             "informationUrl": "https://apps.apple.com/no/app/a-farm-animal-jigsaw-puzzle/id558267252",
-            "price": "33.50"
+            "price": "Free",
+            "currency": "kr",
+            "iPadSupport": "Yes",
+            "requirement": "Requires iPadOS 8.0 or later",
+            "age": "4+",
+            "version": "Version 2.91",
+            "updated": "20/1/2021T10:32:35Z",
+            "size": "98.8 MB",
+            "category": "Games",
+            "privacyPolicyUrl": "http://www.mcpeppergames.com/privacypolicy"
         },
         {
             "id": "6f7f1c0a-3de6-4f87-b772-22f990742895",
             "displayName": "A to Z - Learning Tree",
             "informationUrl": "https://apps.apple.com/no/app/a-to-z-learning-tree/id396265069",
-            "price": "20.00"
+            "price": "20.00",
+            "currency": "kr",
+            "iPadSupport": "Yes",
+            "requirement": "os Version",
+            "age": "age",
+            "version": "VersionNumber",
+            "updated": "timeStampWhenLastRun",
+            "size": "Size",
+            "category": "Category",
+            "privacyPolicyUrl": "http://www.somUrl.com/privacypolicy"
         }
     ]
 }
